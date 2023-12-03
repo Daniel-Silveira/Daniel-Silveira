@@ -1,32 +1,32 @@
-# Daniel Silveira
+# Hello! 👋 I'm Daniel Silveira
 
-Olá! 👋 Eu sou Daniel Silveira, um desenvolvedor Full-Stack apaixonado por criar experiências incríveis na web. Atualmente com 23 anos, residindo em São Paulo e atuo no mundo do desenvolvimento há 5 anos. Minha especialidade é o front-end, mas também mergulho no back-end para garantir soluções robustas.
+I'm a passionate Full-Stack developer dedicated to creating amazing web experiences. Currently 23 years old, based in São Paulo, I've been working in the development world for 5 years. My expertise lies in front-end development, but I also dive into the back-end to ensure robust solutions.
 
-## Sobre Mim
+## About Me
 
-Experiente desenvolvedor full-stack, contribuí para empresas de diversos setores, desde monitoramento e segurança até e-commerce e ensino à distância. Minha abordagem no front-end é focada em criar interfaces usáveis, efetivas e agradáveis, com atenção especial à fidelidade ao layout e à organização do código seguindo os padrões de clean code.
+As an experienced full-stack developer, I've contributed to companies in various sectors, ranging from monitoring and security to e-commerce and distance learning. My approach to front-end development is focused on creating usable, effective, and enjoyable interfaces, with special attention to layout fidelity and code organization following clean code standards.
 
-No back-end, minha expertise inclui servidores implementados em NodeJS, com destaque para frameworks como o Nest. Tenho habilidade com a criação de estruturas de dados performáticas e eficientes, tanto para bases de dados SQL quanto NoSQL.
+In the back-end, my expertise includes servers implemented in NodeJS, with a focus on frameworks like Nest. I possess the skills to create performant and efficient data structures for both SQL and NoSQL databases.
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-Trabalho com uma variedade de tecnologias, incluindo:
+I work with a variety of technologies, including:
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Native, Next, Vue, Nuxt, Stencil
 - **Backend:** Node, Nest
-- **Bancos de Dados:** MongoDB, MySQL, PostgreSQL
-- **Estilização:** Styled-Components, Tailwind
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Styling:** Styled-Components, Tailwind
 - **State Management:** Redux, Zustand, Recoil, Vuex
-- **Documentação e Testes:** Storybook, Jest, Cypress, Testing Library
-- **Outras:** React Query, Frame Motion, React Spring,
+- **Documentation and Testing:** Storybook, Jest, Cypress, Testing Library
+- **Others:** React Query, Frame Motion, React Spring
 
-Comprometido com a excelência técnica, minha prática inclui a implementação de uma ampla variedade de testes, desde testes unitários até testes de integração, garantindo não apenas a funcionalidade, mas também a confiabilidade e robustez do sistema.
+Committed to technical excellence, my practice includes implementing a wide range of tests, from unit tests to integration tests, ensuring not only functionality but also the reliability and robustness of the system.
 
-## Entre em Contato
+## Contact Me
 
-Sinta-se à vontade para entrar em contato comigo! Estou sempre aberto a novas oportunidades e colaborações.
+Feel free to get in touch! I'm always open to new opportunities and collaborations.
 
 - [LinkedIn](https://www.linkedin.com/in/dan-amaral)
 - [Email](mailto:danieldoamaral10@gmail.com)
 
-Vamos criar algo incrível juntos! 🚀
+Let's create something amazing together! 🚀
