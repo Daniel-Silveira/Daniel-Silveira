@@ -26,7 +26,7 @@ Committed to technical excellence, my practice includes implementing a wide rang
 
 Feel free to get in touch! I'm always open to new opportunities and collaborations.
 
-- [LinkedIn](https://www.linkedin.com/in/dan-amaral)
-- [Email](mailto:danieldoamaral10@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-amaral)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldoamaral10@gmail.com)
 
 Let's create something amazing together! 🚀
